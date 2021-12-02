@@ -23,7 +23,7 @@
 # *not* include it on all devices, so it is safe even with hardware-specific
 # components.
 
-DEVICE_PATH := device/oneplus/hotdog
+DEVICE_PATH := device/oneplus/hotdogv2
 
 # Architecture
 TARGET_ARCH := arm64
